@@ -1,0 +1,9 @@
+2020-07-24-main--INFO -log4j_exception_demo.ExceptionEx:divideByZero() Enter
+  2020-07-24-main--ERROR-log4j_exception_demo.ExceptionEx:Invalid Arithmetic Exception.... Please Check 
+  2020-07-24-main--INFO -log4j_exception_demo.ExceptionEx:divideByZero() Enter
+  2020-07-24-main--ERROR-log4j_exception_demo.ExceptionEx:Invalid Arithmetic exception.... Please Check 
+  2020-07-24 17:17:41-main--INFO -log4j_exception_demo.ExceptionEx:divideByZero() Enter
+  2020-07-24 17:17:41-main--ERROR-log4j_exception_demo.ExceptionEx:Invalid Arithmetic exception.... Please Check 
+  2020-07-24 17:22:39-main--INFO -log4j_exception_demo.ExceptionEx:divideByZero() Enter
+  2020-07-24 17:22:39-main--ERROR-log4j_exception_demo.ExceptionEx:Invalid Arithmetic operation.... Please Check 
+  
